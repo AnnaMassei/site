@@ -1,0 +1,48 @@
+header{
+    background-color: #FFFFFF;
+    color: white 
+}
+.cabecalho-imagem{
+   width: 17%;
+   display: inline-block; margin: 0 700px; font-size: 32px ;}
+
+
+.cabecalho-lista{
+    display: flex; justify-content: space-around;
+}
+
+
+.cabecalho-icone{
+    width:2%;
+    display: inline-block; margin: 0 1800px;font-size: 32px;}
+    #imgpos {position: absolute;left: 50px; top: 25px;}
+    
+    
+
+.cabecalho-iconedois{
+    width:2%;
+    display:inline-block;margin: 0 1700px;font-size: 32px;}
+    #imgpos2 {position: absolute;left: 90px; top: 20px;}
+
+.foto-lista{
+   display: flex; justify-content: space-around;
+   
+}
+.foto-modelo{
+    display:flex; justify-content: center;
+}
+.nome-modelo{
+    display: flex;justify-content:space-around ;
+}
+.rodapé{
+    background-color: black;
+    color: #FFFFFF;
+}
+.lista1{
+    display:grid;justify-content: space-around;
+}
+.lista2 {  display:grid;justify-content: center;}
+
+.br{
+    color: #FFFFFF;
+}
